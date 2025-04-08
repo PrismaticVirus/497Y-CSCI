@@ -1,1 +1,2 @@
-# CSCI-403
+# CSCI-403 Project Log
+*Crickets 🦗*
