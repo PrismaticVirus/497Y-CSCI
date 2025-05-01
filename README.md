@@ -13,6 +13,7 @@ I also did the soldering badge, so I thought I would just throw that in here.
 My main problem with the tutorial is that the equipment in the tutorial and what's actually in the kit differ slightly.
 
 ![Mug Rug](/images/IMG_2273.png)
+
 ---
 
 ## 📓 Project Log #2
@@ -47,4 +48,6 @@ I’ll dedicate about 20 hours to it, allowing plenty of time for troubleshootin
 - Finalize microcontroller placement.
 - Implement a "hold to power off" feature for the button.
 
+### Update 
+Due to constraints with the conducive thread and the backpack material I decied to crochet a braclet and sew the NeoPixel LEDS into that instead.
 
