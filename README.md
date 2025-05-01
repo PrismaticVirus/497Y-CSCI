@@ -1,2 +1,4 @@
-# CSCI-403 Project Log
+# CSCI-497Y Project Log
 *Crickets 🦗*
+
+TODO UPLOAD PROJECT LOG
