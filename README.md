@@ -53,15 +53,14 @@ Due to constraints with the conducive thread and the backpack material I decied 
 
 ---
 ## 📓 Project Log #4
-**Name TBD**
-- My idea is to make a glove that you can play a game on
-- Depeding if i come up with an original game, recreate an exising game, or use code that already exists for this aspect will determine which game it is
+**Doom Glove**
+- My idea is to make a glove that you can play doom (and maybe other games) on
 
 **Parts Required:**
 - Glove
 - Adafruit Flora
 - OLED Screen
-- Flex Sensor (or create my own)
+- 5x Flex Sensor (or create my own)
 
 **Skills Required**
 - Sewing
@@ -69,8 +68,9 @@ Due to constraints with the conducive thread and the backpack material I decied 
 
 **Similar Projects**
 
-Somones midterm use the same OLED screen im going to use 
-*Update Later*
+There are a few projects that involve running doom on an arduino, ill probably use the code for the game itself from one of those and modify it so to work in my *unique* form factor
+
+*Will add link later*
 
 **Pros**
 * It will be fun 
