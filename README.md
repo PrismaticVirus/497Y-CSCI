@@ -68,6 +68,7 @@ Due to constraints with the conducive thread and the backpack material I decied 
 - Computer Science things (or something idk)
 
 **Similar Projects**
+
 Somones midterm use the same OLED screen im going to use 
 *Update Later*
 
@@ -75,6 +76,7 @@ Somones midterm use the same OLED screen im going to use
 * It will be fun 
 * Theres alot of room for creative freedom
 * The potential to expand the project (more than one game, etc)
+
 **Cons**
 * Medium Expensive
 * Will take alot of time if I decide to actually make a game from scratch
