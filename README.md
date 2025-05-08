@@ -51,3 +51,31 @@ I’ll dedicate about 20 hours to it, allowing plenty of time for troubleshootin
 ### Update 
 Due to constraints with the conducive thread and the backpack material I decied to crochet a braclet and sew the NeoPixel LEDS into that instead.
 
+---
+## 📓 Project Log #4
+**Name TBD**
+- My idea is to make a glove that you can play a game on
+- Depeding if i come up with an original game, recreate an exising game, or use code that already exists for this aspect will determine which game it is
+
+**Parts Required:**
+- Glove
+- Adafruit Flora
+- OLED Screen
+- Flex Sensor (or create my own)
+
+**Skills Required**
+- Sewing
+- Computer Science things (or something idk)
+
+**Similar Projects**
+Somones midterm use the same OLED screen im going to use 
+*Update Later*
+
+**Pros**
+* It will be fun 
+* Theres alot of room for creative freedom
+* The potential to expand the project (more than one game, etc)
+**Cons**
+* Medium Expensive
+* Will take alot of time if I decide to actually make a game from scratch
+* Third thing
