@@ -84,9 +84,9 @@ change their colors depending on frequency
 
 ```
 
-## 📓 Project Log #6##
+## 📓 Project Log #6
 
-**Maintaing The code**
+**Maintaing the code**
 - My strategy for backing up the code has all ready been implemented, I will be using this github repo
 - Besides from best git practices there isnt much else to do
 - If gihtub ever changes their business model I would re evaluate this
