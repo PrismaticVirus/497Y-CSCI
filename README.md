@@ -91,4 +91,20 @@ change their colors depending on frequency
 - Besides from best git practices there isnt much else to do
 - If gihtub ever changes their business model I would re evaluate this
 
- 
+## 📓 Project Log #7
+
+**Progress**
+As of right now I have sewn in the microcontroller, the microphone, and the light sensor into the board and did some peliminary testing on how they will work toghether
+
+I found out mounting the mic on the ouside works better, which is also better for comfort so I'm really happy with that! 
+
+![Mask](/images/IMG_2479.jpg)
+![Mask](/images/IMG_2476.jpg)
+
+**Next Steps**
+
+Now I have to decide on a pattern for the nepoixels and sew them In im thinking circle 
+
+![Mask](/images/IMG_2480.jpg)
+
+I did also discover that I will need to sew an extra layer of fabric into the mask to cover up the thread so it dosent touch your face because it can shock you
