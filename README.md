@@ -81,3 +81,60 @@ There are a few projects that involve running doom on an arduino, ill probably u
 * Medium Expensive
 * Will take alot of time if I decide to actually make a game from scratch
 * Third thing
+=======
+
+## 📓 Project Log #5
+My Final project will be a face mask with leds that changed based on the sound of your voice 
+
+**Componets**
+- Cloth Face Mask (Have)
+- Adafruit Flora (Have)
+- 4-10 Neopixel LEDS (Have)
+- Microphone (Need)
+- Light Sensor (Have)
+
+**Things to Figure out**
+Will I be able to change the leds based on the amplidute and frequency or just one
+Hopefully the light sensor actually works for wear detection
+
+**Diagrams and things**
+Here is a simple sketch of the circuit 
+![circuit](/images/circuit.png)
+Hopefully it will be pretty easy to sew that not that many things need to run across eachother and the pinout on the flora is alot better than on the lilypad
+
+**Rough Code**
+```
+Calibrate mic 
+calibrate light sensor
+use light sensor to detect of being worn
+
+Read Mic Value
+light up a certain ammount of the leds depeing on the amplitude 
+change their colors depending on frequency
+
+```
+
+## 📓 Project Log #6
+
+**Maintaing the code**
+- My strategy for backing up the code has all ready been implemented, I will be using this github repo
+- Besides from best git practices there isnt much else to do
+- If gihtub ever changes their business model I would re evaluate this
+
+## 📓 Project Log #7
+
+**Progress**
+As of right now I have sewn in the microcontroller, the microphone, and the light sensor into the board and did some peliminary testing on how they will work toghether
+
+I found out mounting the mic on the ouside works better, which is also better for comfort so I'm really happy with that! 
+
+![Mask](/images/IMG_2479.jpg)
+![Mask](/images/IMG_2476.jpg)
+
+**Next Steps**
+
+Now I have to decide on a pattern for the nepoixels and sew them In im thinking circle 
+
+![Mask](/images/IMG_2480.jpg)
+
+I did also discover that I will need to sew an extra layer of fabric into the mask to cover up the thread so it dosent touch your face because it can shock you
