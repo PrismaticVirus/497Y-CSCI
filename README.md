@@ -163,6 +163,8 @@ Plan where each component will be placed on the mask. Consider:
 
 ---
 
+- See Log 6-7 for Images/Ideas (WILL UPDATE IN ACTUAL LOG)
+
 ### Step 2: Start Sewing
 
 - **Begin with the Microphone:**  
