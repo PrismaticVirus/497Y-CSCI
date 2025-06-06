@@ -51,7 +51,37 @@ I’ll dedicate about 20 hours to it, allowing plenty of time for troubleshootin
 ### Update 
 Due to constraints with the conducive thread and the backpack material I decied to crochet a braclet and sew the NeoPixel LEDS into that instead.
 
-### Completed Project
+---
+## 📓 Project Log #4
+**Doom Glove**
+- My idea is to make a glove that you can play doom (and maybe other games) on
+
+**Parts Required:**
+- Glove
+- Adafruit Flora
+- OLED Screen
+- 5x Flex Sensor (or create my own)
+
+**Skills Required**
+- Sewing
+- Computer Science things (or something idk)
+
+**Similar Projects**
+
+There are a few projects that involve running doom on an arduino, ill probably use the code for the game itself from one of those and modify it so to work in my *unique* form factor
+
+*Will add link later*
+
+**Pros**
+* It will be fun 
+* Theres alot of room for creative freedom
+* The potential to expand the project (more than one game, etc)
+
+**Cons**
+* Medium Expensive
+* Will take alot of time if I decide to actually make a game from scratch
+* Third thing
+=======
 
 ## 📓 Project Log #5
 My Final project will be a face mask with leds that changed based on the sound of your voice 
